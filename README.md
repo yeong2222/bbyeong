@@ -42,10 +42,6 @@
 - Raspberry Pi에서 경량화된 YOLOv5 모델 실행
 - 카메라에서 인식된 객체는 Bounding Box로 시각화
 
-
----
-
-
 ---
 
 ## 📫 Contact
