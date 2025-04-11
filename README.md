@@ -45,10 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![dronefield's GitHub stats](https://github-readme-stats.vercel.app/api?username=dronefield&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dronefield&layout=compact&theme=react)
 
 ---
 
